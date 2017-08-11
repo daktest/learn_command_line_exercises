@@ -1,2 +1,6 @@
 # learn_command_line_exercises
-Learning the command line
+
+This directory is for learning the command line.
+
+Yeah, that's about it.  :)
+
