@@ -5,29 +5,29 @@
 
 ### cd to the joe directory with one command.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+`cd temp/stuff/things/frank/joe`
 
 ### cd back to temp with one command, but not further above that.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+`cd ~/temp` or `cd ../../../..`
 
 ### Find out how to cd to your "home directory" with one command.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+`cd` or `cd ~`
 
 ### cd to your Documents directory, then find it with your GUI file browser (Finder, Windows Explorer, etc.).
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+`cd ~/Documents`
  
 ### cd to your Downloads directory, then find it with your file browser.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+`cd ~/Downloads`
 
 ### Find another directory with your file browser, then cd to it.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+`cd /opt/cisco/vpn/bin`
 
 ### Remember when you put quotes around a directory with spaces in it? You can do that with any command. For example, if you have a directory I Have Fun, then you can do: cd "I Have Fun"
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+`cd “adding spaces”`
     
