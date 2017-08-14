@@ -5,5 +5,9 @@
 
 ### Move a file in the newplace directory to another directory then move it back
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+```
+mv oldplace/awesome.txt otherplace/
+mv otherplace/awesome.txt oldplace/
+```
+
     
