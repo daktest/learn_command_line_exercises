@@ -9,5 +9,5 @@
 
 ### Unix: Try cat ex12.txt ex13.txt and see what it does.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+Displays both files.
 
