@@ -9,7 +9,7 @@
 
 ### Copy it to your temp directory again so you can look at it.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+`cp ~/Desktop/ex12.txt ~/temp`
     
 ### Now do the exercise again, but this time page through it. On Unix you use the spacebar and w (the letter w) to go down and up. Arrow keys also work. On Windows just hit spacebar to page through.
 
