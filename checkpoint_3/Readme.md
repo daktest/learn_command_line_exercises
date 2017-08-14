@@ -1,32 +1,32 @@
 
 If you're not already, please go into the checkpoint_3 directory.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+`cd ~/workspace/davinci_coders_t3_2016/homework/learn_command_line_exercises/checkpoint_3`
 
 Can you rename foo/bar/file1.txt to foo/blah.txt?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+`mv foo/bar/file1.txt foo/blah.txt`
     
 Let's make a copy of foo/blah.txt and put it in the foo/bar/baz directory.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+`cp foo/blah.txt foo/bar/baz/`
 
 What happens if you touch an existing file. (Hint:  The answer is not nothing...)
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+The date of the file is updated.
 
 Can you copy the foo/blah.txt file to slash temp?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+No, there is no /temp dir.
 
 Can you copy .bash_profile in your home directory to the current directory? (Do not use cd here...)
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+`cp ~/.bash_profile .`
 
 What's in foo/blah.txt?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+`cat foo/blah.txt` or `less foo/blah.txt` or `more foo/blah.txt`
     
 Can you show me what's in foo/blah.txt one page at a time?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+See last two options above.
