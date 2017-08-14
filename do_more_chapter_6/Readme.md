@@ -5,11 +5,11 @@
 
 ### On Unix, try the ls -lR command while you're in temp.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+`ls -lR’
 
 ### Use cd to get to other directories on your computer then use ls to see what's in them.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+`cd` and ‘ls` (yeah, I’m being vague)
 
 ### Update your notebook with new questions. I know you probably have some, because I'm not covering everything about this command.
 
