@@ -7,3 +7,11 @@
 
     Please use markdown formatting listing the command(s) you ran to accomplish this. Explain the error.
 
+```
+mkdir files
+cd files
+touch new_file
+cd ..
+rmdir files
+```
+“Directory not empty” because… umm… the dir isn’t empty.
