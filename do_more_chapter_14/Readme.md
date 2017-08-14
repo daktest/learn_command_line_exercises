@@ -5,7 +5,10 @@
 
 ### Clean up everything in temp from all the exercises so far
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+```
+cd ..
+rm -rf temp
+```
     
 ### Write in your notebook to be careful when running recursive remove on files
 
