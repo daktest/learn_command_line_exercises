@@ -6,11 +6,11 @@
 
 ### Use the cp -r command to copy more directories with files in them.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+`cp -r newplace otherplace`
 
 ### Copy a file to your home directory or desktop.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+`cp neat.txt ~`
     
 ### Find these files in your graphical user interface and open them in a text editor.
 
