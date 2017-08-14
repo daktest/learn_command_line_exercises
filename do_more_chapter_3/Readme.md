@@ -6,3 +6,6 @@
 
     Please use markdown formatting listing the command(s) you ran to accomplish this
 
+```
+Hostname:  David-Kubasiaks-MacBook-Pro.local
+```
