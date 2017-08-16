@@ -1,76 +1,79 @@
 
 If you're not already, please go into the checkpoint_5 directory.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - `cd checkpoint_5`
 
 Show me the lines in foo.txt that have "ERROR" in them.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - `grep ERROR foo.txt`
     
 Show me the lines in foo.txt that have "Synergistic" in them.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - `grep Synergistic foo.txt`
 
 What does the -i option to grep accomplish?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - case-insensitive matching
 
 What option to ls tells it to output file size in human readable form?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - `ls -lh`
 
 What does the -r and -f options to rm do exactly?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ -r: Attempt to remove the file hierarchy rooted in each file argument.
+ -f: Attempt to remove the files without prompting for confirmation, regardless of the 
+     file's permissions.
 
 What does the ifconfig command do?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - configure network interface parameters
 
 What is your shell set to?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - /bin/bash: `env | grep SHELL`
 
 What directory are you in (don't use pwd this time)?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - `env | grep PWD`
 
 What is your home directory set to?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - /Users/david: `env | grep HOME`
 
 Can you set your environment to have DEBUG set to true?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - `export DEBUG=true`
 
 Explain how you would change your PATH on your computer
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - `export PATH=<new path addition>:$PATH`
 
 Can you remove the debug environment variable?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - `unset DEBUG`
     
 Why is it dangerous to run "rm -rf /". DO NOT RUN THIS COMMAND. Simply explain why it's a very bad idea.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - it will attempt to delete everything on your drive.
 
 Can you put "This class is fun" into bar.txt?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - `echo "This class is fun" > bar.txt`
 
 Can you put "Oh so much fun" into foo.txt?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - `echo "Oh so much fun" >> foo.txt` to append or `echo "Oh so much fun" > foo.txt` to 
+   overwrite.
 
 Run find in the class directory, pipe the output to pbcopy and create a gist with the content.  Paste the Gist URL below.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - `find ~/workspace/davinci_coders_t3_2016 | pbcopy`
 
-    Gist URL:  _________
+    Gist URL:  https://gist.github.com/daktest/975ad374b2ba13a7e4908d71f30ced71
 
 Please logout.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - `exit`
 
 
