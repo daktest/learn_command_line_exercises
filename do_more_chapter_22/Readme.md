@@ -5,8 +5,14 @@
 
 ### Take and list out all the environment variables you've found and then go look up what they are online (please do 5-10 or so).
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - SHELL:  tells the location of the shell your account is configured to use.
+ - ORACLE_HOME:  tells the location where Oracle software is installed.
+ - TNS_ADMIN:  tells the location of the Oracle TNS administration files.
+ - HOME:  tells the home dir of the logged-in use.
+ - PATH:  a list of directories that will be searched to find the typed command.
+
 
 ### Read the man page for env again. What else can it do?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - print environment
+ - set environment and execute a command
