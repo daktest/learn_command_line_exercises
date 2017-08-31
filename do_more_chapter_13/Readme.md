@@ -9,5 +9,5 @@
 
 ### Unix: Try cat ex12.txt ex13.txt and see what it does.
 
-Displays both files.
+- `cat ex12.txt ex13.txt` : Displays both files.
 
