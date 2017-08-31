@@ -13,12 +13,12 @@
     
 ### Now do the exercise again, but this time page through it. On Unix you use the spacebar and w (the letter w) to go down and up. Arrow keys also work. On Windows just hit spacebar to page through.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    `less ex12.txt`
 
 ### Look at some of the empty files you created too.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    `less empty.txt’
     
 ### The cp command will overwrite files that already exist so be careful copying files around.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    `cp empty.txt nonempty.txt`
