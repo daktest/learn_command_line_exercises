@@ -13,5 +13,5 @@ Ditto.
 
 ### If you try to remove a directory with contents you will get an error. I'll show you how to remove these in later exercises.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ - `rmdir temp` : returned: `rmdir: temp: Directory not empty`
         
