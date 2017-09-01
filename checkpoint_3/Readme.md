@@ -13,11 +13,11 @@ Let's make a copy of foo/blah.txt and put it in the foo/bar/baz directory.
 
 What happens if you touch an existing file. (Hint:  The answer is not nothing...)
 
-The date of the file is updated.
+- The date of the file is updated.
 
 Can you copy the foo/blah.txt file to slash temp?
 
-No, there is no /temp dir.
+`cp foo/blah.txt /tmp`
 
 Can you copy .bash_profile in your home directory to the current directory? (Do not use cd here...)
 
