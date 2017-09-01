@@ -17,7 +17,7 @@ What happens if you touch an existing file. (Hint:  The answer is not nothing...
 
 Can you copy the foo/blah.txt file to slash temp?
 
-`cp foo/blah.txt /temp` (fails because I don’t have a /temp)
+`cp foo/blah.txt /tmp`
 
 Can you copy .bash_profile in your home directory to the current directory? (Do not use cd here...)
 
